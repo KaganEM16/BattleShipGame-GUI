@@ -17,7 +17,7 @@
 
 ### Oyun Kurallarının Yanlış Uygulanması Sonucu Kullanıcıya Verilen Mesajlar
 <img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması">
-<img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 4 Açıklaması">
+<img src="OyunResimleri/Resim 4.png" width="500" alt="Resim 4 Açıklaması">
 
 ### Oyun Sonunda Ekranın Görünümü
 <img src="OyunResimleri/Resim 5.png" width="500" alt="Resim 4 Açıklaması">
