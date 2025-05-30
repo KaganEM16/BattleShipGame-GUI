@@ -12,14 +12,15 @@
 ### Oyunun Başlangıç Arayüzü
 <img src="OyunResimleri/Resim 1.png" width="500" alt="Resim 1 Açıklaması">
 
-### Oyun Kurallarının Yanlış Uygulanması Sonucu Kullanıcıya Verilen Mesajlar
+### Gemiye Hasar Verilmesi Sonucu Oyunun Devamına İlişkin Mesaj
 <img src="OyunResimleri/Resim 2.png" width="500" alt="Resim 2 Açıklaması">
 
-### Gemiye Hasar Verilmesi Sonucu Oyunun Devamına İlişkin Mesaj 
+### Oyun Kurallarının Yanlış Uygulanması Sonucu Kullanıcıya Verilen Mesajlar
 <img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 3 Açıklaması">
+<img src="OyunResimleri/Resim 3.png" width="500" alt="Resim 4 Açıklaması">
 
 ### Oyun Sonunda Ekranın Görünümü
-<img src="OyunResimleri/Resim 4.png" width="500" alt="Resim 4 Açıklaması">
+<img src="OyunResimleri/Resim 5.png" width="500" alt="Resim 4 Açıklaması">
 
 ## 🎮 Özellikler
 
